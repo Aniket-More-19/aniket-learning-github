@@ -1,4 +1,5 @@
 
 hi there! 
 I am learning to use github
+sample2 branch text for merge conflict test
 
